@@ -2,6 +2,8 @@ Reliance_Report
 
 ###https://app.powerbi.com/links/zqcCP-Tu5Y?ctid=23b0daf1-173a-4a20-afa0-36d69a739904&pbi_source=linkShare
 
+###https://app.powerbi.com/links/H1gRNBP_6Y?ctid=23b0daf1-173a-4a20-afa0-36d69a739904&pbi_source=linkShare
+
 Reliance Business Performance Dashboard (Power BI Project)
 
 In this project, I developed a comprehensive Power BI dashboard to visualize and analyze Reliance’s financial data. The report focuses on key business metrics such as revenue, profit, and returns over time, enabling data-driven decision-making for the management team.
